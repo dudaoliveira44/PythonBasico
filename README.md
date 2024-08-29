@@ -1,2 +1,2 @@
 # PythonBasico
-Python Básico - Cursp
+Python Básico - Curso
