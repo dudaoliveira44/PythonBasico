@@ -1,2 +1,2 @@
-# Python Basico
-Python Básico - Curso
+## Python Basico
+Este curso de Python Básico fornecido pela WoMakersCode teve como objetivo apresentar desde conceitos iniciais da linguagem Python a Tomada de decisão (IF e ELSE) e estruturas de repetição (FOR e WHILE), a apresentação de Listas, Tuplas e Dicionparios, como fazer a construção de Funções, utilizar a funcionalidade de Debug para corrigir erros de código e por fim, a Programação Orientada a Objetos (POO) que incluiu conceitos como utilização de classes (class), Herança (Inheritance) , encapsulamento, propriedades (property) e classe abstrata (abstract class). 
